@@ -13,7 +13,7 @@ export const siteConfig = {
   description:
     "PRIDE is a Pakistani menswear house of tailored suits, waistcoats, sherwanis and eastern wear, cut with care and finished by hand.",
   /** Public URL of the deployed site. Used for sitemap, canonical URLs and Open Graph. */
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://pride-menswear.example.com",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://pride-menswear.vercel.app",
   /**
    * Search-engine indexing. Off while this is a client demo, so the site never
    * appears in Google. Set NEXT_PUBLIC_ALLOW_INDEXING=true once PRIDE approves it.
